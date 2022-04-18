@@ -337,3 +337,8 @@
         width: 195px;
     }
 }
+@media (max-width: 750px) {
+    .download {
+        width: 195px;
+    }
+}
